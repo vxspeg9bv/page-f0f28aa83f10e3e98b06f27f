@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "85b732fc3358b857af06c44f",
+  "owner": "vxspeg9bv",
+  "repo": "page-f0f28aa83f10e3e98b06f27f",
+  "title": "魔晶云(MOJING)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f0f28aa83f10e3e98b06f27f",
+      "a": "魔晶云(MOJING)",
+      "b": "",
+      "entity": "魔晶云(MOJING)",
+      "brand": "魔晶云(MOJING)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "08b60c2e67cce3525012344f7e2f2b351d7e8932c5921e352af07d100183cbb7",
+      "content": {
+        "keyword1": "魔晶云(MOJING)",
+        "keyword2": "",
+        "primary_entity": "魔晶云(MOJING)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔晶云(MOJING)提供官方机场订阅与VPN网络加速服务，涵盖多档套餐、客户端下载及详细配置流程，适用于流媒体解锁、游戏加速与跨境办公，欢迎访问官网了解。",
+          "AI_DESCRIPTION": "魔晶云(MOJING)提供官方机场订阅与VPN网络加速服务，涵盖多档套餐、客户端下载及详细配置流程，适用于流媒体解锁、游戏加速与跨境办公，欢迎访问官网了解。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background-color:#F5F0E6;color:#1B3A2F;font-size:16px;line-height:1.65;}a{color:#2D6A4F;text-decoration:none;}a:hover{text-decoration:underline;}header{background:#1B4332;color:#F5F0E6;padding:12px 16px;}header a{color:#D8F3DC;}nav ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:12px;}nav li{margin:0;}.wrap{max-width:920px;margin:0 auto;padding:20px 16px;}h1{font-size:1.75rem;color:#1B4332;margin:0 0 12px;}h2{font-size:1.35rem;color:#2D6A4F;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #40916C;}h3{font-size:1.1rem;color:#1B4332;margin:18px 0 8px;}.lead{font-size:1.05rem;margin-bottom:20px;}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0;}.plan{flex:1 1 250px;background:#FFFEF9;border:1px solid #74C69D;padding:16px;border-radius:4px;}.plan.featured{background:#D8F3DC;border:2px solid #2D6A4F;}.plan h3{margin-top:0;}.price{font-size:1.25rem;font-weight:700;color:#2D6A4F;}.annual{font-size:0.9rem;color:#40916C;}.plan ul{padding-left:18px;margin:8px 0;}.columns{display:flex;flex-wrap:wrap;gap:20px;}.col{flex:1 1 280px;}details{background:#FFFEF9;border:1px solid #95D5B2;margin:8px 0;padding:8px 12px;}summary{font-weight:600;color:#1B4332;}details p{margin:8px 0 4px;}footer{background:#1B4332;color:#D8F3DC;padding:20px 16px;margin-top:32px;font-size:0.9rem;}footer a{color:#B7E4C7;}.muted{color:#52796F;font-size:0.95rem;}@media(max-width:640px){nav ul{flex-direction:column;gap:8px;}h1{font-size:1.5rem;}.plans,.columns{flex-direction:column;}}</style><header><div class=\"wrap\"><nav><ul><li><a href=\"#\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">客户端下载</a></li></ul></nav></div></header><main class=\"wrap\"><h1>魔晶云(MOJING)</h1><p class=\"lead\">魔晶云官方网站提供机场订阅、VPN梯子网络加速与多平台客户端下载指引，帮助用户完成从选购套餐到导入节点的完整配置流程。</p><section id=\"intro\"><h2>品牌简介</h2><p>魔晶云(MOJING)是面向个人与团队的网络加速机场。我们以稳定节点、清晰套餐和可落地的配置说明为核心，降低VPN与订阅工具的使用门槛。服务覆盖流媒体解锁、跨境协作、游戏加速等常见需求，并提供基础版、旗舰版与团队版三种选择，方便按流量与设备数量匹配。</p><p>作为官方网站，本页集中展示套餐权益、客户端适配情况以及逐步操作说明。用户完成订阅后即可获得专属链接，在 Clash、Shadowrocket 等客户端中更新节点。我们不夸大延迟或成功率，建议结合自身线路与套餐额度实际体验。旗舰版起包含 IPLC 专线优化与优先支持，适合对游戏与会议更敏感的用户。</p></section><section id=\"plans\"><h2>套餐方案</h2><p class=\"muted\">价格按自然月计费，年付可享受对应优惠。流量每月重置，设备数为同时在线上限。以下为官网当前方案说明。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"columns\"><div class=\"col\"><h3>流媒体与内容访问</h3><p>观看海外平台影视、直播与音乐时，可选用已解锁的节点。旗舰版强调原生解锁，减少验证失败。建议在客户端中为流媒体单独分组，避免与下载抢带宽。</p><h3>游戏与实时对战</h3><p>对延迟敏感的用户可优先旗舰版 IPLC 线路。连接后在游戏内观察延迟与丢包，必要时切换同区域备用节点。团队版适合多成员共享高带宽线路。</p></div><div class=\"col\"><h3>远程办公与学习</h3><p>访问文献库、协作文档与会议软件时，保持系统代理或规则分流，仅对需要的域名走加速。基础版即可满足轻度办公，长期使用可考虑年付。</p><h3>多设备家庭或小团队</h3><p>按同时在线设备选择套餐。手机、电脑、平板同时使用时注意流量消耗。团队版提供定制路由与客户经理，便于统一管理订阅。</p></div></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>以下流程适用于首次使用魔晶云机场订阅的用户，重点在于客户端准备、订阅导入与节点选择。请按顺序完成，遇到问题可查阅下方常见问题。</p><h3>第一步：确认套餐并保存订阅链接</h3><p>在官网完成基础版、旗舰版或团队版订购后，进入账户或订阅页面复制链接。请妥善保存，不要在公开场合传播。年付用户同样在同一入口管理续费与流量查询。</p><h3>第二步：下载并安装客户端</h3><p id=\"download\">请从各客户端项目的官方发布页获取安装包，本站仅提供适配说明，不托管可执行文件。常见选择：Windows 使用 Clash Verge 或 Clash Meta；macOS 可使用 ClashX.Meta；Android 使用 Clash Meta for Android；iOS 常用 Shadowrocket 或 Stash（需自行准备）。路由器用户可选择支持订阅的固件。安装完成后先不要开启系统代理，直至导入成功。</p><h3>第三步：导入魔晶云订阅</h3><p>打开客户端的配置或订阅栏目，选择从 URL 导入或添加订阅，粘贴魔晶云提供的链接，命名为 MOJING 以便识别，然后点击更新。成功后应看到节点列表。若提示失败，检查网络是否可访问订阅地址、链接是否完整。</p><h3>第四步：规则与节点选择</h3><p>建议启用规则分流（如绕过中国大陆），避免国内站点绕行。根据用途选择节点：观影选解锁节点，游戏选低延迟专线，下载可选高带宽。连接后访问目标应用确认生效。更换套餐后记得在客户端强制更新订阅。</p><h3>第五步：日常维护</h3><p>定期点击更新订阅以获取线路调整。流量将尽时减少大文件传输或升级套餐。卸载重装前导出配置。旗舰版与团队版用户可通过工单反馈具体节点问题，提供客户端日志有助于排查。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>魔晶云机场如何购买并获取订阅链接？</summary><p>选择适合的套餐完成支付后，在官网用户中心即可查看专属订阅 URL。复制该链接用于客户端导入。年付方案对应基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，权益与月付一致，流量按月重置。</p></details><details><summary>支持哪些设备与客户端下载？</summary><p>覆盖 Windows、macOS、Linux、Android、iOS 及部分路由器。推荐 Clash 内核系列与 Shadowrocket 等。请务必通过客户端官方渠道下载安装，再导入魔晶云订阅，以确保安全与版本更新。</p></details><details><summary>导入订阅后无法连接节点怎么处理？</summary><p>依次检查：订阅是否已更新、套餐流量是否剩余、设备数量是否超限、系统时间是否正确、防火墙是否拦截。可尝试关闭再开启代理、更换节点或协议。仍失败时，旗舰版与团队版可提交优先工单。</p></details><details><summary>流量与同时在线设备如何计算？</summary><p>基础版 100GB/月、3 台；旗舰版 300GB/月、5 台；团队版 1000GB/月、20 台。仅统计代理产生的流量，国内直连通常不计入。同时在线以实际握手设备为准，超出可能被限制新连接。</p></details><details><summary>能否用于流媒体解锁和游戏加速？</summary><p>可以。基础版提供基础解锁，旗舰版与团队版强调全节点原生流媒体及 IPLC 游戏优化。效果与所在网络、节点负载有关，建议连接后实际测试播放与对战延迟，再决定长期套餐。</p></details><details><summary>怎样确认自己访问的是魔晶云官方网站？</summary><p>认准品牌名称魔晶云(MOJING)及本页展示的套餐与配置说明。官方网站用于介绍机场订阅、VPN 加速与客户端下载流程，不会要求安装未知插件。下载客户端请使用软件原发布源。</p></details></section><section id=\"ads\"><h2>合作推广</h2><p>本栏目用于展示与魔晶云相关的合作信息。如需商务对接、节点合作或内容互换，请通过官方渠道联系。当前为信息占位，不构成具体广告报价。</p></section><section id=\"friends\"><h2>友情链接</h2><p><a href=\"#\">网络加速百科</a> · <a href=\"#\">客户端使用手册</a> · <a href=\"#\">分流规则分享</a> · <a href=\"#\">隐私与安全提示</a></p><p class=\"muted\">友链均为页面内锚点示例，实际合作请联系官方。</p></section><section id=\"sitemap\"><h2>网站地图</h2><p>本站主要栏目：<a href=\"#intro\">品牌简介</a>、<a href=\"#plans\">套餐方案</a>、<a href=\"#scenes\">使用场景</a>、<a href=\"#guide\">配置流程</a>、<a href=\"#download\">客户端下载说明</a>、<a href=\"#faq\">常见问题</a>。完整 XML 地图见站点 sitemap.xml。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>魔晶云(MOJING) 官方网站 · 机场订阅与 VPN 网络加速服务</p><p>本页提供套餐说明、操作指引与客户端适配信息，供用户阅读与配置参考。</p></div></footer>",
+          "hash": "19e26adb7917bd2c5d238778473b74786f2ed96094ad2d3772853e458f41c5bc",
+          "seo": {
+            "title": "魔晶云(MOJING)官网 - VPN梯子网络加速与机场客户端下载",
+            "keywords": "魔晶云,MOJING,魔晶云机场,魔晶云VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "魔晶云(MOJING)提供官方机场订阅与VPN网络加速服务，涵盖多档套餐、客户端下载及详细配置流程，适用于流媒体解锁、游戏加速与跨境办公，欢迎访问官网了解。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nrvrk.cn",
+    "host": "p-5531389c61.nrvrk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "agidi.cn",
+      "url": "https://agidi.cn/",
+      "label": "魔晶云(MOJING)",
+      "apex": "agidi.cn",
+      "kind": null,
+      "identity": "jwkhnv/page-5b4ea5055be6f4fdf02d451a"
+    },
+    {
+      "host": "akeoh.cn",
+      "url": "https://akeoh.cn/",
+      "label": "魔晶云(MOJING)",
+      "apex": "akeoh.cn",
+      "kind": null,
+      "identity": "emubpvtdhg/page-a1e9087643c568638eb48940"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1058319a64d058cd2e4b1f48bba189a482d5ceb917a04fea6d74c38bd7cad55a",
+    "sitemap.xml": "bcc2dab6bb75f6f3e169dd9130d0fa77d56651be37130376190c89d6b0ead726",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b1f877a5125b7db508934ec18d1abcf72bf384a974786dfb1e2c43ed62222254",
+    "robots.txt": "0fb15884ae942b28cdbd6c53b9a8eca3c7421bfdc2408c3d6a98a1c4fb79629a",
+    "23fd39989a43cb536a5f3eec88d33ba5.txt": "30a1160612647b54966df3fcd74fa61cdd3c6572f8c8ab92137e901f82619c1d"
+  },
+  "revision": "22663249461a1774bdd993bf4d5e6a7fbc0e80de1f5c781f98b0f3b74d7f9d54"
+}
